@@ -1,0 +1,7 @@
+{
+	"name": "my/app",
+    "require": {
+        "phreeze/phreeze": "dev-master",
+        "cboden/Ratchet": "0.3.*"
+    }
+}
